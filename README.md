@@ -79,16 +79,13 @@ The deployed Streamlit app includes:
 
 ## 📸 Output Screenshots
 
-### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard](screenshots/dash.webp)
 
-### Mental Health Predictor
-![Predictor Screenshot](screenshots/predictor.png)
+![Clusters](screenshots/clusters.webp)
 
-### Cluster Segmentation
-![Cluster Screenshot](screenshots/clusters.png)
+![Predictor](screenshots/predict.webp)
 
-> *Add screenshots to a `/screenshots` folder after running the app*
+![Segment](screenshots/segment.webp)
 
 ---
 
