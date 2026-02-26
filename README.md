@@ -55,7 +55,7 @@ Students aged 16–25 spend significant hours daily on social media platforms, y
 
 ## 🚀 Deployed Application
 
-**🔗 Live App:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app) *(update after deployment)*
+**🔗 Live App:** [social-media-project-ani6.onrender.com](https://social-media-project-ani6.onrender.com)
 
 The deployed Streamlit app includes:
 - 📊 **Interactive Dashboard** — EDA charts, cluster visualizations, correlation heatmap
