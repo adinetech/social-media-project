@@ -112,4 +112,4 @@ streamlit run app.py
 | **Course** | Business Mini Project — AI & Economics |
 | **Presentation** | 27 February 2026, 10:30–10:45 AM |
 | **Techniques** | K-Means Clustering, Linear Regression, PCA, EDA |
-| **Platform** | Streamlit Community Cloud |
+| **Platform** | Render |
